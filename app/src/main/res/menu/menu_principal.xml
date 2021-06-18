@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/about"
+    android:title="Acerca de"
+    android:icon="@drawable/about"
+    app:showAsAction="always"
+    />
+    <item
+        android:id="@+id/salir"
+        android:title="Salir"
+         android:icon="@drawable/close"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/about2"
+        android:title="Acerca de2"
+        android:icon="@drawable/about"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/salir2"
+        android:title="Salir2"
+        android:icon="@drawable/close"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/about3"
+        android:title="Acerca de2"
+        android:icon="@drawable/about"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/salir3"
+        android:title="Salir2"
+        android:icon="@drawable/close"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/about4"
+        android:title="Acerca de2"
+        android:icon="@drawable/about"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/salir4"
+        android:title="Salir2"
+        android:icon="@drawable/close"
+        app:showAsAction="always"
+        />
+</menu>
